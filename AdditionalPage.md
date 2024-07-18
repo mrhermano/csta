@@ -1,2 +1,2 @@
 # Additional Page
-This file contains an additional page to be built with the GitBook.  *** It's cool! ***
+This file contains an additional page to be built with the GitBook.  **_ It's cool! _**
